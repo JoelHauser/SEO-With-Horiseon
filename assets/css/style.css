@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* style for header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -40,7 +40,9 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
+/* end header style*/
 
+/* main body style */
 main {
     width: 75%;
     display: inline-block;
@@ -55,7 +57,9 @@ a {
 p {
     font-size: 16px;
 }
+ /* end main body style */
 
+ /* footer style */
 footer {
     padding: 30px;
     clear: both;
@@ -66,7 +70,9 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+/* end footer style */
 
+/* hero style */
 .hero {
     height: 800px;
     width: 100%;
@@ -85,7 +91,9 @@ footer h2 {
     float: right;
     margin-left: 25px;
 }
+/* end hero style */
 
+/* benefit style */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -113,8 +121,9 @@ footer h2 {
     margin: 10px auto;
     max-width: 150px;
 }
+/* end benefit style /*
 
-
+/* main css style */
 .main-stuff {
     margin-bottom: 20px;
     padding: 50px;
@@ -134,3 +143,4 @@ footer h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/*end main css style /*
